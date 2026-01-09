@@ -1,0 +1,4 @@
+api_key.txt
+__pycache__/
+*.json
+!rail_data.json
