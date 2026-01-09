@@ -1,4 +1,4 @@
-# Singapore GTFS Data (2025) 🚌🚇
+# Singapore GTFS Data (2026) 🚌🚇
 
 > **Note:** This is a **Vibecode learning project** created to understand how to build and update GTFS feeds programmatically.
 
