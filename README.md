@@ -11,7 +11,7 @@ It serves as a massive update to the original [singapore-gtfs](https://github.co
 
 ---
 
-## ✨ What's New in 2025?
+## ✨ What's New?
 The AI rebuilt the feed from the ground up to reflect the latest transport network:
 
 - **📅 Full 7-Day Schedule**: Expanded on the original weekday coverage to now include complete schedules for **Weekdays, Saturdays, and Sundays**.
